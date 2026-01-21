@@ -9,23 +9,41 @@ The objective is to understand whether sentiment influences trader profitability
 ## 📂 Repository Structure
 
 ds_P_Dhanush_Kumar/
+
 │
+
 ├── notebook_1.ipynb
+
 │
+
 ├── csv_files/
+
 │   ├── fear_greed_index.csv
+
 │   ├── historical_data.csv
+
 │   └── merged_sentiment_trades.csv
+
 │
+
 ├── outputs/
+
 │   ├── pnl_vs_sentiment_box.png
+
 │   ├── risk_vs_sentiment.png
+
 │   ├── volume_vs_sentiment_box.png
+
 │   ├── winrate_vs_sentiment.png
+
 │   └── directional_bias_vs_sentiment.png
+
 │
+
 ├── ds_report.pdf
+
 │
+
 └── README.md
 
 ---
